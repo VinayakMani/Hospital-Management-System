@@ -61,9 +61,7 @@ const Dashboard = () => {
                 <h5>{admin && `${admin.firstName} ${admin.lastName}`} </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              We are thrilled to have you on our team. Your expertise and dedication are highly valued. We look forward to a successful collaboration and to making a positive impact together. If you need any assistance, please do not hesitate to reach out.
               </p>
             </div>
           </div>
