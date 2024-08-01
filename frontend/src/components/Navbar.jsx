@@ -52,6 +52,9 @@ const Navbar = () => {
                 {/* Add this link */}
                 Chatbot
               </Link>
+              <Link to={"/upload"} onClick={() => setShow(!show)}>
+                Upload
+              </Link>
             </div>
             {isAuthenticated ? (
               <button className="logoutBtn btn" onClick={handleLogout}>
